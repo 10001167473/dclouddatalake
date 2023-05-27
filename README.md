@@ -1,0 +1,2 @@
+# dclouddatalake
+DCLOUDプロジェクトにおいて、データレイクからのデータ取得等を行う
